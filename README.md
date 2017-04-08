@@ -1,2 +1,2 @@
 # CurrentBook
-Keeping a safe copy of the books I have read,so I can easily give a list.
+Keeping a safe copy of the electronic books I have read,so I can easily give a list.
